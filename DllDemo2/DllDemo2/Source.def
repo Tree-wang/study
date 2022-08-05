@@ -1,0 +1,3 @@
+LIBRARY DllDemo2
+EXPORTS
+convert_array @1
