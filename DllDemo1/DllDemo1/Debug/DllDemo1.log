@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dll.cpp
+D:\study\DllDemo1\DllDemo1\dll.cpp(7,1): warning C4273: “convert_array”: dll 链接不一致
+D:\study\DllDemo1\DllDemo1\dll.h(8,27): message : 参见“convert_array”的前一个定义
+  dllmain.cpp
+  正在生成代码...
+    正在创建库 D:\study\DllDemo1\Debug\DllDemo1.lib 和对象 D:\study\DllDemo1\Debug\DllDemo1.exp
+  DllDemo1.vcxproj -> D:\study\DllDemo1\Debug\DllDemo1.dll
