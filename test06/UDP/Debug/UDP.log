@@ -1,0 +1,7 @@
+﻿  udptest.cpp
+D:\study\test06\UDP\udptest.cpp(13,6): warning C4101: “len”: 未引用的局部变量
+  udp_class.cpp
+D:\study\test06\UDP\udp_class.cpp(49,12): warning C4305: “return”: 从“int”到“bool”截断
+D:\study\test06\UDP\udp_class.cpp(69,12): warning C4305: “return”: 从“int”到“bool”截断
+  正在生成代码...
+  UDP.vcxproj -> D:\study\test06\Debug\UDP.exe
