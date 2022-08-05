@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  mydll.cpp
+  正在生成代码...
+    正在创建库 D:\study\DLLPractice\Debug\DemoDll.lib 和对象 D:\study\DLLPractice\Debug\DemoDll.exp
+  DemoDll.vcxproj -> D:\study\DLLPractice\Debug\DemoDll.dll
